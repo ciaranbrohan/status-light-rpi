@@ -1,0 +1,13 @@
+{
+    "colors": {
+        "red":    [255,   0,   0],
+        "yellow": [255, 192,   0],
+        "green":  [  0, 128,   0]
+    },
+    "statuses": {
+        "away":            "off",
+        "busy":         "yellow",
+        "donotdisturb":    "red",
+        "free":          "green"
+    }
+}
